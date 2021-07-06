@@ -4,6 +4,12 @@
 ## Database:
 * http://www.aurakingdom-db.com/
 
+## RaGEZONE:
+* https://forum.ragezone.com/f935/
+
+## ElitePvPers:
+* https://www.elitepvpers.com/forum/aura-kingdom/
+
 ## Lepei:
 * https://lepei.github.io/
 
