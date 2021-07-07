@@ -19,17 +19,20 @@
 	* https://github.com/AgentYee/AK-Website-Project-Dev
 * https://github.com/AlainProvist
 	* https://github.com/AlainProvist/EAL
-* https://github.com/CinqueIzumi
-	* https://github.com/CinqueIzumi/AKHelper
+		- Bot to link Eidolons
+* https://github.com/AziOne1
+	* https://github.com/AziOne1/MikuLauncher
+	* https://github.com/AziOne1/WinterNavea
+		- Snow texture files for Navea
 * https://github.com/Crystal-Moon
 	* https://github.com/Crystal-Moon/akbook
 	* https://github.com/Crystal-Moon/akbook2
+	* https://github.com/Crystal-Moon/desafio-divino-akes
+	* https://github.com/Crystal-Moon/eidolon-exp
+	* https://github.com/Crystal-Moon/royal-battle-ak
 * https://github.com/Eriorith
 	* https://github.com/Eriorith/AuraKingdom-web-tomirons
 	* https://github.com/Eriorith/pw-web-tomirons
-* https://github.com/FrostBlockYT
-	* https://github.com/FrostBlockYT/WinterNavea
-		- Snow texture files for Navea
 * https://github.com/Haruka98
 	* https://github.com/haruka98/ak_auction_filler
 	* https://github.com/haruka98/ak_binary_patcher
