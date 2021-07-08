@@ -13,6 +13,14 @@
 ## Lepei:
 * https://lepei.github.io/
 
+## Discord:
+* https://discord.com/invite/AuraKingdomDE
+	- Aeria DE server
+* https://discord.com/invite/aurakingdomfr
+	- Aeria FR server
+* https://discord.com/invite/aurakingdomus
+	- Aeria US server
+
 ## Github:
 * https://github.com/AgentYee
 	* https://github.com/AgentYee/AK-Website_Project-Dev
