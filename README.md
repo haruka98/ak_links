@@ -86,9 +86,12 @@
 	* https://github.com/vexuas/ak-goats
 	* https://github.com/vexuas/ak-timers
 	* https://github.com/vexuas/amaterasu
+		- Discord bot for Eidolon wishes
 	* https://github.com/vexuas/amaterasu-web
+		- Website for Eidolon wishes & documentation for the amaterasu Discord bot
 	* https://github.com/vexuas/eternia
 	* https://github.com/vexuas/yagi
+		- Discord bot for VV/BB world boss timers
 * https://github.com/vsbarba
 	* https://github.com/vsbarba/aura-reset-timer
 	
