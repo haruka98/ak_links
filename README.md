@@ -54,7 +54,9 @@
 		- Snow texture files for Navea
 * https://github.com/harunokami
 	* https://github.com/harunokami/LilithscytheMod
+		- Minecraft Mod
 	* https://github.com/harunokami/Lilithscythemod1.2.0
+		- Minecraft Mod
 * https://github.com/KevinSupertramp
 	* https://github.com/KevinSupertramp/AK-API
 * https://github.com/Kittenxs
